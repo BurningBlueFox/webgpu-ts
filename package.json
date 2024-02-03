@@ -10,9 +10,9 @@
   "devDependencies": {
     "@tweakpane/core": "^1.1.7",
     "@webgpu/types": "^0.1.31",
-    "typescript": "^5.0.4",
-    "vite": "^4.3.1",
-    "vite-raw-plugin": "^1.0.1"
+    "typescript": "^5.3.3",
+    "vite": "^5.0.12",
+    "vite-raw-plugin": "^1.0.2"
   },
   "dependencies": {
     "tweakpane": "^3.1.8",
